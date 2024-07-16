@@ -1,6 +1,6 @@
 ---
 lastUpdated: false
-contributors: false
+contributors: true
 externalLinkIcon: true
 date: 2024-07-16
 ---
