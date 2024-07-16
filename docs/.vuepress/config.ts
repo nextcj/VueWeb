@@ -5,7 +5,7 @@ import { getDirname, path } from "@vuepress/utils";
 import { glob } from "glob";
 
 let songFiles = glob
-  .sync("docs/songs/**/*.md")
+  .sync("docs/W222/**/*.md")
   .map((f) => f.replace("docs", "").replace("index.md", ""));
 
 import { description } from "../../package.json";
@@ -37,9 +37,9 @@ export default defineUserConfig({
     notFound: ["There's nothing here. If you're looking for DecapCMS, manually enter `/admin` to the root site path to navigate directly to it."],
     navbar: [
       {
-        text: "Songs",
+        text: "W222",
         // notice the trailing / (for the automatic next and prev links based on the sidebar)
-        link: "/songs/",
+        link: "/W222/",
       },
       {
         text: "Using this template",
@@ -50,12 +50,12 @@ export default defineUserConfig({
         link: "https://github.com/NdagiStanley/VueDN",
       },
     ],
-    // notice there's a difference between /songs and /songs/
-    // We have the /songs to enable this sidebar for /songs and /songs/ paths
+    // notice there's a difference between /songs and /W222/
+    // We have the /W222 to enable this sidebar for /W222 and /W222/ paths
     sidebar: {
-      "/songs": [
+      "/W222": [
         {
-          text: "Songs",
+          text: "W222",
           children: songFiles,
         },
       ],
