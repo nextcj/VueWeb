@@ -16,6 +16,8 @@ date: 2023-04-17
 
 ## Lyrics
 
+![](/media/2024-06-26-11.32.42.png)
+
 Baba yetu, yetu uliye<br>
 Mbinguni yetu, yetu amina!<br>
 Baba yetu yetu uliye<br>
@@ -55,9 +57,6 @@ On Earth as it is in Heaven.<br>
 
 ## Related performances
 
-- (Orchestra) Baba Yetu Live | Cadogan Hall 2016 - [Youtube](https://youtu.be/noneMROp_E8)
-
-- Baba Yetu - Stellenbosch University Choir - [Youtube](https://youtu.be/PCa8RxaOPW8)
-
-- Baba Yetu (By Christopher Tin) Lord's Prayer in Swahili - Alex Boyé, BYU Men's Chorus/ Philharmonic - [Youtube](https://youtu.be/vsINANZ6Riw)
-
+* (Orchestra) Baba Yetu Live | Cadogan Hall 2016 - [Youtube](https://youtu.be/noneMROp_E8)
+* Baba Yetu - Stellenbosch University Choir - [Youtube](https://youtu.be/PCa8RxaOPW8)
+* Baba Yetu (By Christopher Tin) Lord's Prayer in Swahili - Alex Boyé, BYU Men's Chorus/ Philharmonic - [Youtube](https://youtu.be/vsINANZ6Riw)
