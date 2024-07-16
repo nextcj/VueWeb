@@ -1,18 +1,18 @@
 ---
 lastUpdated: false
-contributors: false
+contributors: true
 externalLinkIcon: true
 date: 2024-07-16
 ---
-# All W222
+```
+写个代码
+```
 
-All pages here contain W222 (in Swahili) that I settle on and decide to learn their lyrics, periodically.
+All pages here contain W222 that I settle on
 
 ::: details
 
 ![](/media/2024-06-26-11.32.42.png)
-
-`soW222ngs` here (the directory and contents) is used as an example of document directory that will be a collection in Decap CMS. The `index.md` files are within directories named in the format "YYYY-MM-DD".
 
 Update as needed.
 
@@ -39,15 +39,9 @@ Update as needed.
 
 The pages have a standard format.
 
-## Format
+* AAA
+* BBB
 
-* Title
-* Links
-
-  * Youtube
-  * Spotify
-* Lyrics (with translations if available)
-
-## Popular W222
-
-* [Tuko tayari (Mwanga Band)](/W222/2023-04-10)
+  *
+  * Two
+* CCC
